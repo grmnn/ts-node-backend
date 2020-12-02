@@ -1,0 +1,4 @@
+dump.rdb
+dist
+node_modules
+.env
